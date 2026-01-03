@@ -99,13 +99,17 @@ Unlock unlimited creativity with MemeFast Pro:
 
 ### Demo Video
 
-![MemeFast Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owNm1tOW1zem80ZDR4NGNmeXNwOGFkcnowdzJscnJ4eXJzbmlkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyJyQH1bNKByp0UnUi/giphy.gif)
+![MemeFast Demo](./demo/memefast-demo.gif)
 
 *Watch how easy it is to create amazing memes in seconds*
 
 ---
 
 ## 📸 Screenshots
+
+
+<img src="./demo/editor-demo.jpg" height="548" alt="MemeFast Editor Showcase">
+
 
 ### Create Memes in 3 Easy Steps:
 
